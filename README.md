@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! EU sou o Felipe Augusto e seja bem vindo(a) ao meu perfil
 
-<!--
-**August0f/August0f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um estudante apaixonado por tecnologia prestes a se tornar bacharel em ciência da computação
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/August0f">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=August0f&show_icons=true&theme=github_dark&include_all_commits=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=August0f&layout=compact&langs_count=16&theme=github_dark"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+
+- 🔭 Eu atualmente trabalho como full-stack
+
